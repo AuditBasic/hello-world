@@ -1,2 +1,4 @@
 # hello-world
-Can I do this and Will I enjoy it?
+This is me. 
+
+Now I'd like to find out more about you.
